@@ -1,8 +1,8 @@
 # Group Members:
 - Mukunda Aithal (maithal@andrew.cmu.edu)
-- Saumya Bansal (saumyab@andrew.cmu.edu)
-- Pranay Muppala (pmuppala@andrew.cmu.edu)
-- Yashika Goyal (ygoyal@andrew.cmu.edu)
+- Saumya Bansal 
+- Pranay Muppala 
+- Yashika Goyal 
 
 # Installation instructions:
 After unzipping the D2_Team2 zip file please ensure you have the following files in the same directory
