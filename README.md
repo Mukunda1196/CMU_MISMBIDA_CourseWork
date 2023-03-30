@@ -1,1 +1,1 @@
-# CMU_MISMBIDA_CourseWork
+# CMU MISM-BIDA CourseWork
